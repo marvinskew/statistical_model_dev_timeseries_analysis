@@ -1,0 +1,2 @@
+# statistical_model_dev_timeseries_analysis
+Repository for general timeseries analysis and statistical model development
