@@ -1,0 +1,77 @@
+"","Var.Name","Test.Type","Stationarity.Type","Variant.of.Test.Type","Lag","CritVal.1pct","CritVal.5pct","CritVal.10pct","test.stats.val","p.value"
+"1","SP500","Augmented Dickey-Fuller Test","None","tau1",1,-2.6,-1.95,-1.61,-7.51532816904301,NA
+"2","SP500","Augmented Dickey-Fuller Test","None","tau1",2,-2.6,-1.95,-1.61,-5.62534198651695,NA
+"3","SP500","Augmented Dickey-Fuller Test","None","tau1",3,-2.6,-1.95,-1.61,-4.04088316893021,NA
+"4","SP500","Augmented Dickey-Fuller Test","None","tau1",4,-2.6,-1.95,-1.61,-3.888296463282,NA
+"5","SP500","Augmented Dickey-Fuller Test","Drift","tau2",1,-3.51,-2.89,-2.58,-7.4698731203866,NA
+"6","SP500","Augmented Dickey-Fuller Test","Drift","phi1",1,6.7,4.71,3.86,27.9471744857226,NA
+"7","SP500","Augmented Dickey-Fuller Test","Drift","tau2",2,-3.51,-2.89,-2.58,-5.58506102096596,NA
+"8","SP500","Augmented Dickey-Fuller Test","Drift","phi1",2,6.7,4.71,3.86,15.653976679255,NA
+"9","SP500","Augmented Dickey-Fuller Test","Drift","tau2",3,-3.51,-2.89,-2.58,-4.00364752321845,NA
+"10","SP500","Augmented Dickey-Fuller Test","Drift","phi1",3,6.7,4.71,3.86,8.07630646428461,NA
+"11","SP500","Augmented Dickey-Fuller Test","Drift","tau2",4,-3.51,-2.89,-2.58,-3.83981612119897,NA
+"12","SP500","Augmented Dickey-Fuller Test","Drift","phi1",4,6.7,4.71,3.86,7.48159337689273,NA
+"13","SP500","Augmented Dickey-Fuller Test","Trend","tau3",1,-4.04,-3.45,-3.15,-7.84719402577671,NA
+"14","SP500","Augmented Dickey-Fuller Test","Trend","phi2",1,6.5,4.88,4.16,20.5600618642303,NA
+"15","SP500","Augmented Dickey-Fuller Test","Trend","phi3",1,8.73,6.49,5.47,30.7909085317229,NA
+"16","SP500","Augmented Dickey-Fuller Test","Trend","tau3",2,-4.04,-3.45,-3.15,-5.99906509979905,NA
+"17","SP500","Augmented Dickey-Fuller Test","Trend","phi2",2,6.5,4.88,4.16,12.044030295382,NA
+"18","SP500","Augmented Dickey-Fuller Test","Trend","phi3",2,8.73,6.49,5.47,18.0067524521367,NA
+"19","SP500","Augmented Dickey-Fuller Test","Trend","tau3",3,-4.04,-3.45,-3.15,-4.44455685991528,NA
+"20","SP500","Augmented Dickey-Fuller Test","Trend","phi2",3,6.5,4.88,4.16,6.68309705397924,NA
+"21","SP500","Augmented Dickey-Fuller Test","Trend","phi3",3,8.73,6.49,5.47,9.96126765046452,NA
+"22","SP500","Augmented Dickey-Fuller Test","Trend","tau3",4,-4.04,-3.45,-3.15,-4.26235031356003,NA
+"23","SP500","Augmented Dickey-Fuller Test","Trend","phi2",4,6.5,4.88,4.16,6.16003574412762,NA
+"24","SP500","Augmented Dickey-Fuller Test","Trend","phi3",4,8.73,6.49,5.47,9.12790320959131,NA
+"25","SP500","Phillips-Perron","constant","Z-alpha",1,NA,NA,NA,-99.0224388357826,NA
+"26","SP500","Phillips-Perron","constant","Z-alpha",2,NA,NA,NA,-96.9982525341497,NA
+"27","SP500","Phillips-Perron","constant","Z-alpha",3,NA,NA,NA,-97.1679154703172,NA
+"28","SP500","Phillips-Perron","constant","Z-alpha",4,NA,NA,NA,-98.8314651396059,NA
+"29","SP500","Phillips-Perron","constant","Z-tau",1,-3.49708034894399,-2.89060953984287,-2.58208234873992,-10.2542417829765,NA
+"30","SP500","Phillips-Perron","constant","Z-tau",2,-3.49708034894399,-2.89060953984287,-2.58208234873992,-10.2641805562143,NA
+"31","SP500","Phillips-Perron","constant","Z-tau",3,-3.49708034894399,-2.89060953984287,-2.58208234873992,-10.2631522530888,NA
+"32","SP500","Phillips-Perron","constant","Z-tau",4,-3.49708034894399,-2.89060953984287,-2.58208234873992,-10.2549694716412,NA
+"33","SP500","Phillips-Perron","trend","Z-alpha",1,NA,NA,NA,-102.917176562145,NA
+"34","SP500","Phillips-Perron","trend","Z-alpha",2,NA,NA,NA,-99.7587255497161,NA
+"35","SP500","Phillips-Perron","trend","Z-alpha",3,NA,NA,NA,-98.7074704831706,NA
+"36","SP500","Phillips-Perron","trend","Z-alpha",4,NA,NA,NA,-99.2519314672074,NA
+"37","SP500","Phillips-Perron","trend","Z-tau",1,-4.05301405978982,-3.45521718192021,-3.1530976328946,-10.5542794178133,NA
+"38","SP500","Phillips-Perron","trend","Z-tau",2,-4.05301405978982,-3.45521718192021,-3.1530976328946,-10.5820561231144,NA
+"39","SP500","Phillips-Perron","trend","Z-tau",3,-4.05301405978982,-3.45521718192021,-3.1530976328946,-10.5944856585446,NA
+"40","SP500","Phillips-Perron","trend","Z-tau",4,-4.05301405978982,-3.45521718192021,-3.1530976328946,-10.5878342377126,NA
+"41","SP500","KPSS","Deterministic","mu",1,0.347,0.463,0.574,0.474120181575026,NA
+"42","SP500","KPSS","Deterministic","mu",2,0.347,0.463,0.574,0.492795662823541,NA
+"43","SP500","KPSS","Deterministic","mu",3,0.347,0.463,0.574,0.495311675474914,NA
+"44","SP500","KPSS","Deterministic","mu",4,0.347,0.463,0.574,0.474326481679405,NA
+"45","SP500","KPSS","Deterministic","tau",1,0.119,0.146,0.176,0.0735782394705339,NA
+"46","SP500","KPSS","Deterministic","tau",2,0.119,0.146,0.176,0.0799407065645335,NA
+"47","SP500","KPSS","Deterministic","tau",3,0.119,0.146,0.176,0.0835695261087595,NA
+"48","SP500","KPSS","Deterministic","tau",4,0.119,0.146,0.176,0.0823452322853281,NA
+"49","SP500","KPSS","Deterministic","tau",4,0.119,0.146,0.176,0.0823452322853281,NA
+"50","SP500","KPSS","Deterministic","tau",4,0.119,0.146,0.176,0.0823452322853281,NA
+"51","SP500","KPSS","Deterministic","tau",4,0.119,0.146,0.176,0.0823452322853281,NA
+"52","SP500","KPSS","Deterministic","tau",4,0.119,0.146,0.176,0.0823452322853281,NA
+"53","SP500","KPSS","Deterministic","tau",4,0.119,0.146,0.176,0.0823452322853281,NA
+"54","SP500","KPSS","Deterministic","tau",4,0.119,0.146,0.176,0.0823452322853281,NA
+"55","SP500","KPSS","Deterministic","tau",4,0.119,0.146,0.176,0.0823452322853281,NA
+"56","SP500","KPSS","Deterministic","tau",4,0.119,0.146,0.176,0.0823452322853281,NA
+"57","SP500","KPSS","Deterministic","tau",4,0.119,0.146,0.176,0.0823452322853281,NA
+"58","SP500","KPSS","Deterministic","tau",4,0.119,0.146,0.176,0.0823452322853281,NA
+"59","SP500","KPSS","Deterministic","tau",4,0.119,0.146,0.176,0.0823452322853281,NA
+"60","SP500","KPSS","Deterministic","tau",4,0.119,0.146,0.176,0.0823452322853281,NA
+"61","SP500","KPSS","Deterministic","tau",4,0.119,0.146,0.176,0.0823452322853281,NA
+"62","SP500","KPSS","Deterministic","tau",4,0.119,0.146,0.176,0.0823452322853281,NA
+"63","SP500","KPSS","Deterministic","tau",4,0.119,0.146,0.176,0.0823452322853281,NA
+"64","SP500","KPSS","Deterministic","tau",4,0.119,0.146,0.176,0.0823452322853281,NA
+"65","SP500","Zivot-Andrews","intercept","t-stats=min{coeffs}",1,-5.34,-4.8,-4.58,0.0823452322853281,NA
+"66","SP500","Zivot-Andrews","intercept","t-stats=min{coeffs}",2,-5.34,-4.8,-4.58,0.0823452322853281,NA
+"67","SP500","Zivot-Andrews","intercept","t-stats=min{coeffs}",3,-5.34,-4.8,-4.58,0.0823452322853281,NA
+"68","SP500","Zivot-Andrews","intercept","t-stats=min{coeffs}",4,-5.34,-4.8,-4.58,0.0823452322853281,NA
+"69","SP500","Zivot-Andrews","trend","t-stats=min{coeffs}",1,-4.93,-4.42,-4.11,0.0823452322853281,NA
+"70","SP500","Zivot-Andrews","trend","t-stats=min{coeffs}",2,-4.93,-4.42,-4.11,0.0823452322853281,NA
+"71","SP500","Zivot-Andrews","trend","t-stats=min{coeffs}",3,-4.93,-4.42,-4.11,0.0823452322853281,NA
+"72","SP500","Zivot-Andrews","trend","t-stats=min{coeffs}",4,-4.93,-4.42,-4.11,0.0823452322853281,NA
+"73","SP500","Zivot-Andrews","both","t-stats=min{coeffs}",1,-5.57,-5.08,-4.82,0.0823452322853281,NA
+"74","SP500","Zivot-Andrews","both","t-stats=min{coeffs}",2,-5.57,-5.08,-4.82,0.0823452322853281,NA
+"75","SP500","Zivot-Andrews","both","t-stats=min{coeffs}",3,-5.57,-5.08,-4.82,0.0823452322853281,NA
+"76","SP500","Zivot-Andrews","both","t-stats=min{coeffs}",4,-5.57,-5.08,-4.82,0.0823452322853281,NA
